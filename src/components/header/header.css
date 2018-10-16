@@ -1,0 +1,11 @@
+.header {
+	position: fixed;
+	width: 50%;
+	right: 0;
+}
+
+.header-wrapper {
+	margin: 0 auto;
+	max-width: 960px;
+	padding: 1.45rem 0px;
+}
